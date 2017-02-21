@@ -1,3 +1,3 @@
-class GameReader
+ class GameReader
 
 end
